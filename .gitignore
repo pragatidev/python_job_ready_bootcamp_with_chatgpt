@@ -1,0 +1,23 @@
+# .gitignore
+
+# Ignore the .idea directory
+.idea/
+
+# Ignore all .pyc, .pyo, .pyd files
+*.py[cod]
+
+# Ignore cache files for Python
+__pycache__
+
+# If using Jupyter Notebooks, you may want to ignore .ipynb_checkpoints
+.ipynb_checkpoints/
+
+# Ignore log files
+*.log
+
+# Ignore all local environment files
+.env
+
+# Ignore build/dist directories (common in some Python projects)
+build/
+dist/
